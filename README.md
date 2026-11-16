@@ -14,7 +14,7 @@ Aspiring **SOC Analyst** & **GRC Analyst**
 
 CompTIA Security+ certified professional with more than a decade of high-stakes operational leadership as a Fire Captain/Paramedic and business ownership experience. I bring proven strengths in **incident response**, **compliance enforcement**, **risk awareness**, **standard operating procedures**, and **team leadership** under pressure.
 
-I’m actively transitioning into cybersecurity and seeking onsite,hybrid, or remote **SOC Analyst**, **GRC Analyst**, or Security Operations roles where operational discipline and continuous learning can deliver immediate value.
+I’m actively transitioning into cybersecurity and seeking onsite, hybrid, or remote **SOC Analyst**, **GRC Analyst**, or Security Operations roles where operational discipline and continuous learning can deliver immediate value.
 
 ---
 
