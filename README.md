@@ -4,7 +4,7 @@
 Aspiring **SOC Analyst** & **GRC Analyst**
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-brightgreen?style=for-the-badge&logo=comptia)](https://www.comptia.org/certifications/security)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge)](https://www.linkedin.com/in/michael-rusnak-576567b7)
 [![Location](https://img.shields.io/badge/Location-Parrish%2C%20FL%20%7C%20Remote-blue?style=for-the-badge)](#)
 [![Email](https://img.shields.io/badge/Email-Mrusnak1515%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:Mrusnak1515@gmail.com)
 
@@ -14,7 +14,7 @@ Aspiring **SOC Analyst** & **GRC Analyst**
 
 CompTIA Security+ certified professional with more than a decade of high-stakes operational leadership as a Fire Captain/Paramedic and business ownership experience. I bring proven strengths in **incident response**, **compliance enforcement**, **risk awareness**, **standard operating procedures**, and **team leadership** under pressure.
 
-I’m actively transitioning into cybersecurity and seeking remote or hybrid **SOC Analyst**, **GRC Analyst**, or Security Operations roles where operational discipline and continuous learning can deliver immediate value.
+I’m actively transitioning into cybersecurity and seeking onsite,hybrid, or remote **SOC Analyst**, **GRC Analyst**, or Security Operations roles where operational discipline and continuous learning can deliver immediate value.
 
 ---
 
@@ -93,7 +93,7 @@ I’m currently building practical SOC and GRC skills through structured labs. A
 
 - Building hands-on SOC and GRC lab experience
 - Strengthening practical skills in log analysis, incident response, and compliance frameworks
-- Preparing for mid-level remote cybersecurity roles
+- Preparing for mid-level cybersecurity roles
 
 ---
 
@@ -102,7 +102,7 @@ I’m currently building practical SOC and GRC skills through structured labs. A
 I’m actively looking for opportunities where I can apply operational leadership and continuous learning to real security challenges.
 
 - 📧 **Email**: [Mrusnak1515@gmail.com](mailto:Mrusnak1515@gmail.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+- 🔗 **LinkedIn**: [linkedin.com/in/michael-rusnak-576567b7](https://www.linkedin.com/in/michael-rusnak-576567b7)
 - 📍 Based in Parrish / Ellenton, Florida — open to remote
 
 ---
